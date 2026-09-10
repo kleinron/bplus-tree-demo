@@ -7,6 +7,9 @@ Static teaching visualization of **leaf-page** insert behavior:
 
 Mirrors the InnoDB clustered-index insert story without connecting to MySQL.
 
+
+**Demo:** [https://kleinron.github.io/bplus-tree-demo/](https://kleinron.github.io/bplus-tree-demo/)
+
 ## Run
 
 Needs a local static server (ES modules):
